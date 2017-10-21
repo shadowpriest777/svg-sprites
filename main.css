@@ -1,0 +1,12 @@
+/* тестовые стили */
+
+.follow-us-icon{
+    height: 30px;
+    width: 30px;
+    fill: #95e1d3;
+}
+.follow-us-icon:hover{
+    background-color: #f38181;
+    fill: #ffffff;
+    cursor: pointer;
+}
